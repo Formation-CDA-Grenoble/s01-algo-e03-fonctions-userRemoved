@@ -1,6 +1,6 @@
 def double(number):
     # Début de ton code
-    pass
+    print (test [1::2] *2)
 
     # Fin de ton code
 

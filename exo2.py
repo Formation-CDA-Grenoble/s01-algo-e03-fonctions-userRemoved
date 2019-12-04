@@ -1,7 +1,9 @@
 def conditionalDouble(number):
     # Début de ton code
-    pass
+    if
+    print (test [1::2] *2)
     # Fin de ton code
+
 
 
 # Pas touche!
