@@ -1,11 +1,15 @@
 def double(number):
     # Début de ton code
-    pouet
+number = 2 
+print ((number)*2)
+
+
     # Fin de ton code
 
 
 
 # Pas touche!
+
 tests = (
     (2, 4),
     (7, 14),
@@ -14,4 +18,5 @@ tests = (
 )
 
 for test in tests:
+
     print(f"L'appel  double({test[0]})  renvoie: {double(test[0])} (résultat attendu: {test[1]})")
