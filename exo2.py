@@ -1,7 +1,8 @@
 def conditionalDouble(number):
     # Début de ton code
-    for test in tests > 0 : 
-        print (test [1::2] *2)
+    for test in tests : 
+        if test [1] >= 0 :  
+            print (test) 
     # Fin de ton code
 
 
