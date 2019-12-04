@@ -1,8 +1,6 @@
 def double(number):
     # Début de ton code
-number = 2 
-print ((number)*2)
-
+    pass
 
     # Fin de ton code
 

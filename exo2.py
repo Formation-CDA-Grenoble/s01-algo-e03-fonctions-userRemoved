@@ -1,15 +1,7 @@
 def conditionalDouble(number):
     # Début de ton code
-    
+    pass
     # Fin de ton code
-def test (fonction, pouet) :
-     return fonction(fonction(pouet))
-
-def multiplication(x):
-     return x * 2
-
-if x> 0 :  
-    print(test(multiplication, 2))
 
 
 # Pas touche!
